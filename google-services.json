@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513858913259",
+    "project_id": "bravo-c5285",
+    "storage_bucket": "bravo-c5285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513858913259:android:9795bb6696b8fa751a4fae",
+        "android_client_info": {
+          "package_name": "com.bravo.singleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamRvGIZ9VH4WzQDq9FP0Iw5tmOZe9b2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

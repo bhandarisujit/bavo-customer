@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671464214024",
+    "project_id": "tony-s-singleapp",
+    "storage_bucket": "tony-s-singleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671464214024:android:c6c859c48a1787a6564bbd",
+        "android_client_info": {
+          "package_name": "com.bravo.singleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671464214024-3f3pu80m6plb731au05mg8d3qquoj3pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3pYMIcrAKiX2hsz74jsuQYEoShtrRP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671464214024-3f3pu80m6plb731au05mg8d3qquoj3pk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671464214024-q0es4vk8kgra6iohgpgi8gl6tfqhg9ha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bravo.singleapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
